@@ -62,3 +62,9 @@ Privacy: Configured Pi-hole to minimize the visibility and retention of househol
 Project Notes: 
 This project documents the deployment and administration of the open-source Pi-hole application. Pi-hole itself was developed by the Pi-hole project.
 Actual network addresses, hardware identifiers, authentication details, and private DNS query records have been redacted from this public repository. 
+
+## Pi-hole Dashboard
+
+The dashboard below shows my Raspberry Pi 5 actively processing and filtering DNS requests across my home network.
+
+![Pi-hole Dashboard](Pi-Hole%20screenshot.png)
